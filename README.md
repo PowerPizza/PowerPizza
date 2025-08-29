@@ -1,5 +1,4 @@
-<img width="862" height="392" style="width: 100%;" alt="for_readme" src="https://github.com/user-attachments/assets/f87ade7f-25b1-4796-bb23-b1b359a7d20f" />
-
+<img height="392" style="width: 100%;" alt="for_readme" src="https://github.com/user-attachments/assets/f87ade7f-25b1-4796-bb23-b1b359a7d20f" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFFF&width=600&height=70&lines=The+Great+Programmer+-+PowerPizza;Eat%2C+Code%2C+Repeat.;The+Great+Entrepreneur+-+Scihack;From+Code+to+Company.)](https://git.io/typing-svg)
 
@@ -26,11 +25,14 @@
 ## Known IDE(s) & Tools
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,github,git,idea,vscode,mongodb,mysql,pycharm,qt,supabase)](https://scihack-official.onrender.com/skills)
 
+## Social Media
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/scihack-sh-aa61b8360/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/powerpizza67695/)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Stars](https://img.shields.io/github/stars/PowerPizza?style=social)
-![GitHub Since](https://img.shields.io/badge/Joined-2021-blue)
+![Stars](https://img.shields.io/github/stars/PowerPizza?style=social)  
+![GitHub Since](https://img.shields.io/badge/Joined-2020-blue)
 
 
 <!---
