@@ -1,4 +1,4 @@
-<img height="200" style="width: 100%;" alt="for_readme" src="https://github.com/user-attachments/assets/f87ade7f-25b1-4796-bb23-b1b359a7d20f" />
+<img height="250" style="width: 100%;" alt="for_readme" src="https://github.com/user-attachments/assets/f87ade7f-25b1-4796-bb23-b1b359a7d20f" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFFF&width=600&height=70&lines=The+Great+Programmer+-+PowerPizza;Eat%2C+Code%2C+Repeat.;The+Great+Entrepreneur+-+Scihack;From+Code+to+Company.)](https://git.io/typing-svg)
 
