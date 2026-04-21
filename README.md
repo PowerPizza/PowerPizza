@@ -1,6 +1,6 @@
-<img height="250" style="width: 100%;" alt="for_readme" src="https://github.com/user-attachments/assets/f87ade7f-25b1-4796-bb23-b1b359a7d20f" />
+<img width="2172" height="724" alt="ChatGPT Image Apr 21, 2026, 12_41_41 PM" src="https://github.com/user-attachments/assets/ade1fa00-0547-419c-8ef7-4bf8936f2af4" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&background=0d1117&color=00FFFF&width=600&height=70&lines=The+Great+Programmer+-+PowerPizza;Eat%2C+Code%2C+Repeat.;The+Great+Entrepreneur+-+Scihack;From+Code+to+Company.)](https://git.io/typing-svg)
+<a href="https://www.scihack.in" style="text-align: center;"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18AFF7&width=435&lines=Talk+is+cheap.+Show+me+the+code.;There's+no+place+like+127.0.0.1;Turning+ideas+into+reality.;I+will+be+the+best+programmer." alt="Typing SVG" /></a>
 
 ## @PowerPizza
 
